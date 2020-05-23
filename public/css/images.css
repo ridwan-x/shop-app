@@ -1,0 +1,23 @@
+.container-image{
+    position: relative;
+	padding: 0px;
+	height: 140px;
+	width: 140px;
+	margin: 5px;
+	float: left;
+	border-radius: 2px;
+}
+
+.title-image-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title-image-right {
+  position: absolute;
+  top: 1px;
+  right: 5px;
+  font-size: 18px;
+}
